@@ -3,7 +3,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import LogisticRegression
 import pickle
 
-# ----- Symptoms Chat -----
+
 data = {
     "symptoms": [
         "fever, cough, shortness of breath",
